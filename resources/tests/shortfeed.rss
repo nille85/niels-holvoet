@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+   <channel>
+      <title><![CDATA[Venture Whisper]]></title>
+      <description><![CDATA[Thoughts and insights about how to create valuable digital solutions, make better digital investments, and create an efficient organization.]]></description>
+      <link>https://www.venturewhisper.com</link>
+      <image>
+         <url>https://www.venturewhisper.com/img/substack.png</url>
+         <title>Venture Whisper</title>
+         <link>https://www.venturewhisper.com</link>
+      </image>
+      <generator>Substack</generator>
+      <lastBuildDate>Tue, 20 Sep 2022 11:06:47 GMT</lastBuildDate>
+      <atom:link href="https://www.venturewhisper.com/feed" rel="self" type="application/rss+xml" />
+      <copyright><![CDATA[Niels Holvoet]]></copyright>
+      <language><![CDATA[en]]></language>
+      <webMaster><![CDATA[venturewhisper@substack.com]]></webMaster>
+      <itunes:owner>
+         <itunes:email><![CDATA[venturewhisper@substack.com]]></itunes:email>
+         <itunes:name><![CDATA[Niels Holvoet]]></itunes:name>
+      </itunes:owner>
+      <itunes:author><![CDATA[Niels Holvoet]]></itunes:author>
+      <googleplay:owner><![CDATA[venturewhisper@substack.com]]></googleplay:owner>
+      <googleplay:email><![CDATA[venturewhisper@substack.com]]></googleplay:email>
+      <googleplay:author><![CDATA[Niels Holvoet]]></googleplay:author>
+      <item>
+         <title><![CDATA[Demystifying Mission, Vision, and Values]]></title>
+         <description><![CDATA[Learn how to draft your own mission, vision, and values]]></description>
+         <link>https://www.venturewhisper.com/p/demystifying-mission-vision-and-values</link>
+         <guid isPermaLink="true">https://www.venturewhisper.com/p/demystifying-mission-vision-and-values</guid>
+         <dc:creator><![CDATA[Niels Holvoet]]></dc:creator>
+         <pubDate>Tue, 13 Sep 2022 15:00:55 GMT</pubDate>
+         <enclosure url="https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc151f256-a9d2-42fa-9515-600188e7c2cf_4256x2832.jpeg" length="0" type="image/jpeg" />
+      </item>
+      <item>
+        <title><![CDATA[Demystifying Mission, Vision, and Values 2]]></title>
+        <description><![CDATA[Learn how to draft your own mission, vision, and values]]></description>
+        <link>https://www.venturewhisper.com/p/demystifying-mission-vision-and-values</link>
+        <guid isPermaLink="true">https://www.venturewhisper.com/p/demystifying-mission-vision-and-values</guid>
+        <dc:creator><![CDATA[Niels Holvoet]]></dc:creator>
+        <pubDate>Tue, 13 Sep 2022 15:00:55 GMT</pubDate>
+        <enclosure url="https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc151f256-a9d2-42fa-9515-600188e7c2cf_4256x2832.jpeg" length="0" type="image/jpeg" />
+     </item>
+    </channel>
+</rss>

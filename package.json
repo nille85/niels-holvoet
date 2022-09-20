@@ -3,14 +3,23 @@
   "version": "1.0.0",
   "description": "personal website of Niels Holvoet",
   "main": "src/app.js",
+  "jest": {
+    "testEnvironment": "node",
+    "testPathIgnorePatterns": [
+      "./node_modules"
+    ]
+  },
   "scripts": {
-    "test": "jest src/**/*.test.js"
+    "unit": "jest --testRegex '(?<!integration\\.)test\\.js$'",
+    "integration": "jest --testRegex 'integration\\.test\\.js$'"
   },
   "author": "Niels Holvoet",
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.27.2",
     "express": "^4.18.1",
-    "mustache": "^4.2.0"
+    "mustache": "^4.2.0",
+    "xml2js": "^0.4.23"
   },
   "devDependencies": {
     "jest": "^29.0.3",

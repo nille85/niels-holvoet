@@ -18,10 +18,11 @@ class WebServer{
         const repository = this.articleRepository
 
         //routes
-        app.get('/', function(req, res){
+        app.get('/', async function(req, res){
             try {
-                const templateRenderer = TemplateRenderer.createFromFile("index.html")
-                const articles = repository.findAll()
+                const templateRenderer = TemplateRenderer.createFromFile("templates/index.html")
+                const articles = await repository.findLast(4)
+                console.log(articles)
                 const data = {articles : articles}
                 const html = templateRenderer.renderWithData(data)
                 res.send(html)
